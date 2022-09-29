@@ -1,0 +1,16 @@
+.tabla{
+    background-color: rgb(136, 234, 247);
+    font-size: 50px;
+    margin: 10px;
+    border-collapse: collapse;
+    border: 4px solid;
+    
+}
+.td{
+    border-collapse: collapse;
+    border: 4px solid;
+    margin: 6px;
+    padding: 6px;
+}
+
+
